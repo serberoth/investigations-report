@@ -1,0 +1,5 @@
+Writen By: Serberoth
+
+investigations-report is HTML scraping software that reads investigation content
+from the Judge Center.  The software reads the investigations from the users
+investigation tab and prints out the information in its logs. 
