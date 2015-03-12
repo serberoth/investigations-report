@@ -1,3 +1,6 @@
+/*
+ * Copyright (c) 2015 DarkMatter Software - Nicola DiPasquale
+ */
 /**
  * This package contains classes related to processing content from the Magic:
  * The Gathering - Judge Center.  The classes contained herein are used for

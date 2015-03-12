@@ -1,3 +1,6 @@
+/*
+ * Copyright (c) 2015 DarkMatter Software - Nicola DiPasquale
+ */
 package com.darkside.judge;
 
 import java.util.*;
